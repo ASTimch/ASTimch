@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h1>Hi there 👋 I'm Alex!</h1>
-  <h3>Python developer from Pavlovsk!</h3>
+  <h3>Python developer from Russia!</h3>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/timchenko_as">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -12,7 +12,6 @@
 </div>
 <!--
 **ASTimch/ASTimch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
   ### Hi there 👋 I'm Alex!
 - 👯 I’m looking to collaborate on ...
@@ -22,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning Python asyncio, FastAPI
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />&nbsp;&nbsp;
-          
